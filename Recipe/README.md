@@ -11,6 +11,6 @@
 </ul>
 <hr>
 <h2>THE OUPUT</h2>
-![Screenshot (213)](https://user-images.githubusercontent.com/99282287/200193321-489b9017-a20c-4ea6-9e14-89ae1350c6b7.png)
-![Screenshot (214)](https://user-images.githubusercontent.com/99282287/200193338-59fb36bd-a6c3-438a-b1c1-eb8271e4e24d.png)
-![Screenshot (212)](https://user-images.githubusercontent.com/99282287/200193356-75865c03-1e5e-4f18-9f81-e7f0b609a51d.png)
+![Screenshot (217)](https://user-images.githubusercontent.com/99282287/200193513-69eec57f-a555-439e-a724-c812ee354cee.png)
+![Screenshot (218)](https://user-images.githubusercontent.com/99282287/200193519-16e0cd60-aaac-496c-9692-85d4ef335d6b.png)
+![Screenshot (216)](https://user-images.githubusercontent.com/99282287/200193524-01f893c0-f76d-4d05-8395-a01ce901b19f.png)
