@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: ubuntu;
+}
+
+.container{
+    width: 100%;
+    height: 230vh;
+    background-image: url("img/Screenshot\ \(207\).png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+
+.food{
+    background-color:rgb(183, 199, 193);
+    width: 95%;
+    height: auto;
+    border-radius: 10px;
+    padding: 10px 13px;
+}
+
+.food-title{
+    color: rgb(54, 52, 52);
+    font-size: 30px;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.food-intro{
+    color: black;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    letter-spacing: 0.5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.food-about h3{
+    color: rgb(54, 52, 52);
+    font-size: 25px;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.food-about p{
+    color: black;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    letter-spacing: 0.5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.food-about table{
+    border:1px solid grey;
+    width: auto;
+    margin-top: 60px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+
+.food-about table tr th{
+    letter-spacing: 0.5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(54, 52, 52);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.food-about table tr td ul li{
+    letter-spacing: 0.5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(54, 52, 52);
+    font-weight: bold;
+    border:1px solid grey;
+    list-style: none;
+}
+
+.method h2{
+    color: rgb(46, 43, 43);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.method ol li {
+    color: black;
+    letter-spacing: 0.5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+
+.method p{
+    color: rgb(35, 122, 56);
+    letter-spacing: 0.5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 70px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 17px;
+    font-style: italic;
+    margin-bottom: 25px;
+}
+
+.cards{
+    margin-top: 40px;
+}
+
+/* Float four columns side by side */
+.card-size {
+    float: left;
+    width: 22.8%;
+    padding: 0 10px;
+  }
+  
+.card:hover{
+    transform: scale(1.050);
+}
+
+  /* Remove extra left and right margins, due to padding */
+  .cards-r {margin: 0 -5px;}
+  
+  /* Clear floats after the columns */
+  .cards-r:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+    .card-size {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color:rgb(183, 199, 193);
+    border-radius: 10px;
+    height: 150px;
+  }
+
+
+
+
+
+
